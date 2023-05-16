@@ -32,3 +32,10 @@ MSB steht für "Most Significant Bit" (das Bit mit dem höchsten Wert) und LSB s
 | 1       | 911         | 111'0011  |
 | 2       | 1011'0110   | 182       |
 | 3       | 1110'0010'1010'0101 | E2A5      |
+
+### 5.)
+
+| Zahl-A   | Zahl-B   | Resultat  |
+|----------|----------|-----------|
+| 1101'1001| 0111'0101| 0101'1110 |
+
