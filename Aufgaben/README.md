@@ -24,3 +24,11 @@ Siehe Aufgabenstellung [hier](https://gitlab.com/ch-tbz-it/Stud/m114/-/blob/main
 | 1 | 1 | 1 | 1 | 15| F |
 
 MSB steht für "Most Significant Bit" (das Bit mit dem höchsten Wert) und LSB steht für "Least Significant Bit" (das Bit mit dem niedrigsten Wert).
+
+### 2, 3, 4.)
+
+| Aufgabe | Dezimalzahl | Binärzahl |
+|---------|-------------|-----------|
+| 1       | 911         | 111'0011  |
+| 2       | 1011'0110   | 182       |
+| 3       | 1110'0010'1010'0101 | E2A5      |
