@@ -39,3 +39,16 @@ MSB steht für "Most Significant Bit" (das Bit mit dem höchsten Wert) und LSB s
 |----------|----------|-----------|
 | 1101'1001| 0111'0101| 0101'1110 |
 
+### 6.)
+Die Bitkombination "1100 0000 . 1010 1000 . 0100 1100 . 1101 0011" entspricht der IPv4-Adresse 192.168.76.211
+
+### 7.)
+Die Bitkombination "1011 1110 - 1000 0011 - 1000 0101 - 1101 0101 - 1110 0100 - 1111 1110" entspricht einer MAC-Adresse.
+
+### 9.)
+
+Für die Kabinenzählung des Matterhorn-Express mit 107 Gondeln wird eine Codebreite von mindestens 7 Bits benötigt (2^7 = 128). 
+12h * 2800 = 33600 Personen
+Für die Anzahl Touristen pro Tag würde eine Codebreite von 16 bit genügen (2^16 = 65536)
+
+### 10.)
