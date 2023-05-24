@@ -52,3 +52,17 @@ Für die Kabinenzählung des Matterhorn-Express mit 107 Gondeln wird eine Codebr
 Für die Anzahl Touristen pro Tag würde eine Codebreite von 16 bit genügen (2^16 = 65536)
 
 ### 10.)
+
+## Aufgaben gelöst am 23.05.2023 (Ebenfalls 7-10 von oberhalb)
+
+Siehe Aufgabenstellung [hier](https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/A.%20Daten%20codieren/A.2%20Alphanumerische%20Codes%20ASCII%20und%20Unicode#aufgaben-zu-ascii-und-unicode)
+
+### 1.)
+Textsample1 - ANSI
+Textsample2 - UTF-8
+Textsample3 - UTF-16 BE BOM
+
+### 2.)
+Textsample 1 besteht aus 68 Zeichen, während die anderen aus 71 Zeichen bestehen.
+
+### 3.)
