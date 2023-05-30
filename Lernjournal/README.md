@@ -14,4 +14,5 @@ Zahl -2 = 1110
 
 ## 30.05.2023
 
-Das heutige Thema ging um Barcodes und QR-Codes. In einem ersten Input haben wir angeschaut, wie diese zusammengesetzt sind, woraufhin wir [unseren eigenen QR-Code](https://github.com/Michelstuder/m114/blob/main/Lernjournal/qr-code.png) generiert haben
+Das heutige Thema ging um Barcodes und QR-Codes. In einem ersten Input haben wir angeschaut, wie diese zusammengesetzt sind, woraufhin wir [unseren eigenen QR-Code](https://github.com/Michelstuder/m114/blob/main/Lernjournal/qr-code.png) generiert haben.
+Danach ging es um die Codierung mit Bilder. Wir haben RGB, sowie CMYK angeschaut.
