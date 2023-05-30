@@ -11,3 +11,7 @@ Beim heutigen ersten Input ging es um negative Zahlen im binär System. Dabei ha
 Zahl 2 = 0010
 Zahl 2 negiert = 1101
 Zahl -2 = 1110
+
+## 30.05.2023
+
+Das heutige Thema ging um Barcodes und QR-Codes. In einem ersten Input haben wir angeschaut, wie diese zusammengesetzt sind, woraufhin wir [unseren eigenen QR-Code](https://github.com/Michelstuder/m114/blob/main/Lernjournal/qr-code.png) generiert haben
