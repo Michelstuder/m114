@@ -66,3 +66,30 @@ Textsample3 - UTF-16 BE BOM
 Textsample 1 besteht aus 68 Zeichen, während die anderen aus 71 Zeichen bestehen.
 
 ### 3.)
+
+## Aufgaben gelöst am 30.05.2023
+
+Hier finden Sie das [Aufgabenblatt](https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/A.%20Daten%20codieren/A.4%20Bildcodierung#2-farbcodierung-rgb-cmyk)
+
+RGB:
+#FF0000 entspricht der Farbe Rot
+#00FF00 entspricht der Farbe Grün
+#0000FF entspricht der Farbe Blau
+#FFFF00 entspricht der Farbe Gelb
+#00FFFF entspricht der Farbe Cyan
+#FF00FF entspricht der Farbe Magenta
+#000000 entspricht der Farbe Schwarz
+#FFFFFF entspricht der Farbe Weiß
+#00BC00 entspricht der Farbe Dunkelgrün
+
+CMYK:
+C:0%, M:100%, Y:100%, K:0% entspricht der Farbe Cyan
+C:100%, M:0%, Y:100%, K:0% entspricht der Farbe Magenta
+C:100%, M:100%, Y:0%, K:0% entspricht der Farbe Gelb
+C:0%, M:0%, Y:100%, K:0% entspricht der Farbe Blau
+C:100%, M:0%, Y:0%, K:0% entspricht der Farbe Rot
+C:0%, M:100%, Y:0%, K:0% entspricht der Farbe Grün
+C:100%, M:100%, Y:100%, K:0% entspricht der Farbe Weiß
+C:0%, M:0%, Y:0%, K:100% entspricht der Farbe Schwarz
+C:0%, M:0%, Y:0%, K:0% entspricht der Farbe Transparent (keine Farbe)
+C:0%, M:46%, Y:38%, K:22% entspricht der Farbe Dunkelgrün
