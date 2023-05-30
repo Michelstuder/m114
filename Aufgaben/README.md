@@ -93,3 +93,21 @@ C:100%, M:100%, Y:100%, K:0% entspricht der Farbe Weiß
 C:0%, M:0%, Y:0%, K:100% entspricht der Farbe Schwarz
 C:0%, M:0%, Y:0%, K:0% entspricht der Farbe Transparent (keine Farbe)
 C:0%, M:46%, Y:38%, K:22% entspricht der Farbe Dunkelgrün
+
+YCbCR:
+RGB 255/255/255 ergibt in YCbCr:
+Y: 1, Cb: 0, Cr: 0
+
+RGB 0/0/0 ergibt in YCbCr:
+RGB 255/255/255 ergibt in YCbCr:
+Y: 1, Cb: 0, Cr: 0
+
+RGB 0/0/0 ergibt in YCbCr:
+Y: 0, Cb: 0, Cr: 0
+
+Y: 1, Cb: 0, Cr: 0 entspricht der Farbe Rot
+Y: 0, Cb: 0, Cr: 0 entspricht der Farbe Schwarz
+Y: 0, Cb: 1, Cr: 0 entspricht der Farbe Blau
+Y: 0, Cb: -1, Cr: 0 entspricht der Farbe Gelb
+Y: 0, Cb: 0, Cr: 1 entspricht der Farbe Rot
+Y: 0, Cb: 0, Cr: -1 entspricht der Farbe Cyan
