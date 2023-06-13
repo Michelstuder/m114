@@ -53,7 +53,7 @@ Für die Anzahl Touristen pro Tag würde eine Codebreite von 16 bit genügen (2^
 
 ### 10.)
 
-## Aufgaben gelöst am 23.05.2023 (Ebenfalls 7-10 von oberhalb)
+## Neue Aufgabenstellung
 
 Siehe Aufgabenstellung [hier](https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/A.%20Daten%20codieren/A.2%20Alphanumerische%20Codes%20ASCII%20und%20Unicode#aufgaben-zu-ascii-und-unicode)
 
@@ -69,7 +69,7 @@ Textsample 1 besteht aus 68 Zeichen, während die anderen aus 71 Zeichen bestehe
 
 ## Aufgaben gelöst am 30.05.2023
 
-Hier finden Sie das [Aufgabenblatt](https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/A.%20Daten%20codieren/A.4%20Bildcodierung#2-farbcodierung-rgb-cmyk)
+Siehe Aufgabenstellung [hier](https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/A.%20Daten%20codieren/A.4%20Bildcodierung#2-farbcodierung-rgb-cmyk)
 
 RGB:
 #FF0000 entspricht der Farbe Rot
@@ -111,3 +111,9 @@ Y: 0, Cb: 1, Cr: 0 entspricht der Farbe Blau
 Y: 0, Cb: -1, Cr: 0 entspricht der Farbe Gelb
 Y: 0, Cb: 0, Cr: 1 entspricht der Farbe Rot
 Y: 0, Cb: 0, Cr: -1 entspricht der Farbe Cyan
+
+## Neue Aufgabenstellung
+
+Siehe Aufgabenstellung [hier](https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/B.%20Daten%20komprimieren/B.1%20Verlustlose%20Komprimierung#aufgaben-zu-komprimierung)
+
+
