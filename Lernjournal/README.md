@@ -28,3 +28,18 @@ Zum Schluss der vier Lektionen gab es eine Prüfung, bei welcher ich etwas Mühe
 Wir haben uns an diesem Tag ausführlich mit verschiedenen Datenkomprimierungsmethoden beschäftigt. Dazu gehörten der Huffman-Algorithmus, das RLC/E-Verfahren, das LZW-Verfahren, die ZIP-Komprimierung und die Burrows-Wheeler-Transformation. 
 
 Im Rahmen praktischer Übungen haben wir gelernt, wie man diese Verfahren anwendet und uns mit der Effizienz der Komprimierung auseinandergesetzt.
+
+## 20.06.2023
+
+Im heutigen Unterricht haben wir uns intensiv mit den Grundlagen der Kryptografie beschäftigt. Dabei haben wir verschiedene symmetrische Verschlüsselungsmethoden wie Rotationsschiffre, Vigenère-Verschlüsselung und XOR-Stromchiffre kennengelernt. Mit praktischen Beispiele konnten wir die Anwendung dieser Methoden erproben und haben anschliessend in der Klasse ihre Stärken und Schwächen diskutiert. Wir haben ebenfalls die Bedeutung sicherer Passwörter betont, um den Zugriff von Drittpersonen zu verhindern.
+
+## 27.03.2023
+
+
+Heute haben wir uns mit der Bildung von Hashes beschäftigt und gelernt, wie Verschlüsselung funktioniert. Ich habe ein gutes Verständnis für die Verschlüsselung und die Schlüssel, da wir das bereits im Basislehrjahr behandelt haben.
+
+Außerdem haben wir heute die LB2 geschrieben, die eigentlich ganz gut gelaufen ist. Ich habe den Großteil des Stoffes verstanden.
+
+## 04.06.2023
+
+In der heutigen ersten Lektion haben wir uns mit der Infrastruktur von public keys auseinandergesetzt. Hauptsächlich ging es heute allerdings um SSL-Zertifikate. Wir haben besprochen, welche Informationen verschlüsselt werden, wie sie verschlüsselt werden und welche Optionen man zur Verschlüsselung hat. Dabei war mir zu Beginn einiges unklar, allerdings konnte ich jegliche Fragen bezüglich Zertifikate und Protokollen im Verlauf der Lektion klären. Ausserdem haben wir noch die Prüfung besprochen, was mir bei der Aufklärung der von mir nicht-gelösten Aufgaben geholfen hat. Am Ende des Tages konnten wir noch mit dem Programm Kleopatra Verschlüsselungen ausprobieren.
