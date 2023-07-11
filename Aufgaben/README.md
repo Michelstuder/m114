@@ -116,4 +116,52 @@ Y: 0, Cb: 0, Cr: -1 entspricht der Farbe Cyan
 
 Siehe Aufgabenstellung [hier](https://gitlab.com/ch-tbz-it/Stud/m114/-/tree/main/B.%20Daten%20komprimieren/B.1%20Verlustlose%20Komprimierung#aufgaben-zu-komprimierung)
 
+FUSSBALLTORWART
 
+F (1)
+U (1)
+S (2)
+B (1)
+A (2)
+L (2)
+T (2)
+O (1)
+R (2)
+W (1)
+
+
+![2023-07-11 07_40_50-huffmann drawio - draw io](https://github.com/Michelstuder/m114/assets/107350826/0d116d52-cbe4-421f-8113-3f5ee1dff552)
+
+010 = 2
+100 = 4
+011 = 3
+110 = 6
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+110 = 6
+010 = 2
+110 = 6
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+010 = 2
+001 = 1
+
+XXOOOOXX
+XOOOOOOX
+XOOXXOOX
+XOOXXOOX
+XOOOOOOX
+XOOXXOOX
+XOOXXOOX
